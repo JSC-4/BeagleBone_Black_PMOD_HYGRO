@@ -4,11 +4,11 @@ This project was to interface with the PMOD HYGRO: Temperature and Humidity sens
 
 ## Built With
 
-- Hardware
+Hardware
 * [BeagleBone Black Wireless](https://beagleboard.org/blog/2016-09-26-meet-beaglebone-black-wireless) 
 * [PMOD HYGRO](https://reference.digilentinc.com/reference/pmod/pmodhygro/start)
 
-- Software
+Software
 * [Eclipse](https://www.eclipse.org/) 
 
 ## Website
